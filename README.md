@@ -28,7 +28,7 @@ Steps:
 
 8. Apply the kubernetes manifest file using kubectl apply -f <> command.
 
-9. To login to the application use the instance public ip followed by the node port to access the application.
+9. To login into the application use the instance public ip followed by the node port to access the application.
     
    
  
